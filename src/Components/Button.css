@@ -1,0 +1,20 @@
+.button{
+    display: flex;
+    flex: 1;
+    height: 3em;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    background-color: rgba(0, 255, 200, 0.377);
+    color: #333;
+    outline: #333 1px solid;
+}
+.button:hover{
+    cursor: pointer;
+}
+.operator{
+    background-color:#0f0;
+    color: #fff;
+    font-weight: normal;
+}

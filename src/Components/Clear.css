@@ -1,0 +1,8 @@
+.clear{
+    background-color: #999;
+    font-size: 2em;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    outline: 1px solid #333;
+}
